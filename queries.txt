@@ -1,0 +1,26 @@
+1	alopecia	baldness in multiple spots
+2	alopecia	circular bald spots
+3	alopecia	loss of hair on scalp in an inch width round
+4	angular cheilitis	broken lips
+5	angular cheilitis	dry cracked lips
+6	angular cheilitis	lip sores
+7	angular cheilitis	sores around mouth
+8	edema	fluid in leg
+9	edema	puffy sore calf
+10	edema	swollen legs
+11	exophthalmos	bulging eye
+12	exophthalmos	eye balls coming out
+13	exophthalmos	swollen eye
+14	exophthalmos	swollen eye balls
+15	hematoma	hand turned dark blue
+16	hematoma	neck hematoma
+17	hematoma	large purple bruise on arm
+18	jaundice	yellow eyes
+19	jaundice	eye illness
+20	jaundice	white part of eye turned green
+21	psoriasis	red dry skin
+22	psoriasis	dry irritated skin on scalp
+23	psoriasis	silvery-white scalp + inner ear
+24	urticaria	hives all over body
+25	urticaria	skin rash on chest
+26	urticaria	extreme red rash on arm
